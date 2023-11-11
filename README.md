@@ -1,11 +1,17 @@
 ### Hi there 👋
 
+I am Mihir Agarwal, a Third - Year Undergraduate student in the Electrical Engineering program at IIT Gandhinagar.
+
+- 🔭 I’m currently working on conformal prediction and graph neural networks.
+- 🔭 I have worked with TCS research on 6D pose estimation and on Geomagnetic Storm prediction with ISRO.
+- 👯 I am looking forward to collaborating on a project in sustainability and climate sciences using Machine Learning
+- 📫 You can reach me at agarwalmihir@iitgn.ac.in or text me at 8851142209!
 <!--
 **agarwal-mihir/agarwal-mihir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -14,3 +20,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+![](https://komarev.com/ghpvc/?username=plugyawn)
