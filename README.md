@@ -1,11 +1,9 @@
 ### Hi there 👋
 
-I am Mihir Agarwal, a Third - Year Undergraduate student in the Electrical Engineering program at IIT Gandhinagar.
+I am Mihir Agarwal, a Research Fellow at Microsoft Research India, working on making embeddings better for retrieval.
 
-- 🔭 I’m currently working on conformal prediction and graph neural networks.
-- 🔭 I have worked with TCS research on 6D pose estimation and on Geomagnetic Storm prediction with ISRO.
-- 👯 I am looking forward to collaborating on a project in sustainability and climate sciences using Machine Learning
-- 📫 You can reach me at agarwalmihir@iitgn.ac.in or text me at 8851142209!
+- I am interested in retrieval systems and computer vision for medical imaging
+- 📫 You can reach me at mihiragarwal1710@gmail.com or text me at 8851142209!
 <!--
 **agarwal-mihir/agarwal-mihir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
