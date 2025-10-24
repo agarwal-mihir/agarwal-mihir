@@ -1,9 +1,9 @@
-### Hi there 👋
+### Hi there
 
 I am Mihir Agarwal, a Research Fellow at Microsoft Research India, working on making embeddings better for retrieval.
 
-- I am interested in retrieval systems and computer vision for medical imaging
-- 📫 You can reach me at mihiragarwal1710@gmail.com or text me at 8851142209!
+- I am interested in representation learning, dense retrieval systems and computer vision for medical imaging
+- You can reach me at mihiragarwal1710@gmail.com!
 <!--
 **agarwal-mihir/agarwal-mihir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
